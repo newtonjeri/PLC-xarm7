@@ -22,7 +22,7 @@ The circuit includes the following components:
 - **Green and Red LEDs**
 - **PLC**
 > _Connection Image:_  
-> ![Connection Image](xarm7_connection.png)
+> ![Connection Image](xarm7_connection_circuit.png)
 
 
 #### Circuit Description
